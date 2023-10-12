@@ -1,1 +1,21 @@
-# aayushukla2792
+# 💫 About Me:
+👋 Hello, I'm Aayush, a passionate front-end developer on a journey of continuous learning and growth in the ever-evolving world of web development. <br>🌐 As a technology enthusiast, I'm currently immersed in the exciting realm of React, where I'm harnessing the power of this library to create dynamic and user-friendly web interfaces. With every project I tackle, I strive to create seamless and captivating user experiences that leave a lasting impression.<br>🚀 But it's not just about the tools I use; it's also about the endless possibilities that technology offers. My true passion lies in the Internet of Things (IoT), a cutting-edge field that promises to revolutionize the way we interact with the physical world. I envision a future where software effortlessly communicates with hardware to improve our daily lives, from smart homes to efficient industrial processes.<br>🔍 In my quest for knowledge and expertise, I'm always eager to explore new technologies, frameworks, and programming paradigms. I believe that staying on the forefront of technological advancements is essential to meet the demands of a fast-paced industry and to build solutions that truly make a difference.<br>🛠️ My goal is to bridge the gap between software and hardware, creating an ecosystem where they seamlessly integrate. I'm committed to developing innovative solutions that make IoT accessible and user-friendly, providing value to both individuals and businesses.<br>🌟 Let's connect and explore the exciting possibilities at the intersection of web development and IoT. Whether it's collaborating on a project, sharing knowledge, or simply discussing our shared interests, I'm always open to engaging with fellow developers and tech enthusiasts.<br>📬 You can reach out to me at [Your Email] or connect with me on [LinkedIn/GitHub/Twitter], and together, we can shape the future of technology.<br>Let's code the future, one line at a time! 💻🌍🔌<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushukla_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-s-770509205) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aayush2792&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayush2792&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2792&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aayush2792&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
