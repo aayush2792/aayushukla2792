@@ -7,6 +7,7 @@
 
 🌟 Let's connect and build the future together. Say hi at ayushshukla2792@gmail.com !<br>
 
+<img align="right" alt="Coding" width="300" scr="https://media2.giphy.com/media/U4FkC2VqpeNRHjTDQ5/200w.gif?cid=6c09b9529cjh8ukikvz7hmerzbky8fhulp4czlfps2d176kz&ep=v1_gifs_search&rid=200w.gif&ct=g"> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushukla_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-s-770509205) 
